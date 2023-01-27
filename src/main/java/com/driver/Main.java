@@ -8,9 +8,9 @@ public class Main {
         Product p = new Product();
 
         // i just have to call it . not mention print anything in que;
-        p.product(10,5));
-        p.product(10,10,10));
-        p.product(5.0,10.0));
+        p.product(10,5);
+        p.product(10,10,10);
+        p.product(5.0,10.0);
 
     }
 
